@@ -1,0 +1,6 @@
+Christian Theodore Data Structures, Weekly Assignment 3
+
+**Learnings from Last Week**
+Based on the in-class walk-through of the Week 2 Assigment starter code, I updated my script to do the following:
+1. Using the <td> tag as a starting point, method chain to the HTML, then to the strings using the index to reference specific points in the table (the startign numbers of each address)
+2. Used JSON.stringify(meetings) in order to cleanly save all addresses to an array that can be looped over for future use.
